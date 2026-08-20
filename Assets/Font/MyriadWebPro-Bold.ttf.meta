@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: daa786ba92be79b4a8f439c44a4f4927
+timeCreated: 1784224958
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Myriad Web Pro
+  fontNames:
+  - Myriad Web Pro
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 1
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:
